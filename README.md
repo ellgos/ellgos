@@ -18,7 +18,7 @@ Desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia, a
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,vue,docker,figma,git,github,gitlab,vercel,materialui,linux,styledcomponents,vercel,vite,bootstrap,flutter,mysql,firebase,regex,powershell,redhat,wordpress,au,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,vue,docker,figma,git,github,gitlab,vercel,materialui,linux,styledcomponents,vite,bootstrap,flutter,mysql,firebase,regex,powershell,redhat,wordpress,au,discord,linkedin,instagram" />
 </a>
   <br />
 
