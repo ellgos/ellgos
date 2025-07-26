@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ellgos/ellgos/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
 </p>
 
   
