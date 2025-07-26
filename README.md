@@ -1,7 +1,16 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<h1 align="center">👋 Olá, eu sou o ellgos</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ellgos/ellgos/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+</p>
+
+<p align="center">
+  <sub>Contribuições em 3D geradas automaticamente todos os dias ✨</sub>
+</p>
+
   
 
   
