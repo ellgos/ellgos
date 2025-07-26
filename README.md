@@ -1,17 +1,8 @@
 
 
-
-<h1 align="center">👋 Olá, eu sou o ellgos</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ellgos/ellgos/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
 </p>
-
-<p align="center">
-  <sub>Contribuições em 3D geradas automaticamente todos os dias ✨</sub>
-</p>
-
-  
 
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ellgos&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellgos&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
