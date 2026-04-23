@@ -18,11 +18,6 @@ Analista DevOps/DevSecOps em evolução, com foco em automação, containers, CI
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
 </p>
 
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ellgos&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellgos&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
 
  <div align="center" >
 <a href="https://github.com/syvixor/skills-icons"   >
@@ -35,11 +30,11 @@ Analista DevOps/DevSecOps em evolução, com foco em automação, containers, CI
 
 ---
 ## 🚀 Sobre mim
-Profissional de TI com **4+ anos de experiência real em produção** no TJDFT,
-atuando com automações, administração Linux, APIs, dados e suporte a sistemas críticos.
+Profissional de TI com mais de **4 anos de experiência em ambiente produtivo** no TJDFT, atuando na sustentação e evolução de sistemas críticos, com foco em automação, administração de servidores Linux, integrações via APIs e análise de dados.
 
-Em transição estratégica para **Analista DevSecOps**, com foco em:
-pipelines seguros, infraestrutura como código, GitOps e observabilidade.
+Experiência prática em troubleshooting, análise de incidentes, melhoria contínua e otimização de processos operacionais.
+
+Atualmente em transição estratégica para **Analista DevSecOps**, com foco em automação de pipelines CI/CD, segurança de aplicações, containerização, infraestrutura como código, GitOps e observabilidade.
 
 
 ---
