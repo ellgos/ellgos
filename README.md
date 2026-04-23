@@ -1,6 +1,14 @@
 
 
-<h1 align="center">Olá 👋, eu sou o Elvis Siqueira</h1>
+<div align="center">
+
+# Elvis Gonçalves de Siqueira
+### DevSecOps Analyst | Python & Data Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvisiqueira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellgos)
+
+</div>
 
 <p align="center">
 Desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia, aprendizado contínuo e por criar interfaces modernas, funcionais e acessíveis.
@@ -15,48 +23,75 @@ Desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia, a
  | ----------- | ----------- |
 
 
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,vue,docker,figma,git,github,gitlab,vercel,materialui,linux,styledcomponents,vite,bootstrap,flutter,mysql,firebase,regex,powershell,redhat,wordpress,au,discord,linkedin,instagram" />
+
+ <div align="center" >
+<a href="https://github.com/syvixor/skills-icons"   >
+  <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,redhat,openclaw,linux,git,gitbash,github,gitlab,githubcopilot,githubactions,githubpages,argocd,docker,amazonwebservices,python,pycharm,pypi,pytorch,pandas,flask,regex,batch,bash,powershell,microsoftpowerautomate,powerbi,sql,mysql,php,snyk,bruno,grafana" />
+  
 </a>
   <br />
 
-  </div>
+</div>
 
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=ellgos-ma&theme=darkhub&margin-w=15&margin-h=15"/>
-  </div>
-  
 ---
+## 🚀 Sobre mim
+Profissional de TI com **4+ anos de experiência real em produção** no TJDFT,
+atuando com automações, administração Linux, APIs, dados e suporte a sistemas críticos.
 
-### 🚀 Sobre mim
+Em transição estratégica para **Analista DevSecOps**, com foco em:
+pipelines seguros, infraestrutura como código, GitOps e observabilidade.
 
-- 👨‍💻 Atualmente trabalho como analista de suporte no TJDFT, com desenvolvimento em produção usando PHP, JavaScript e Git.
-- 📘 Estudando: React, Next.js, Tailwind, TypeScript, Sass e Bootstrap.
-- 🧠 Formação: Ciência de Dados (Escola DNC) e Análise e Desenvolvimento de Sistemas (Projeção/DF).
-- 💼 Portfólio em construção com projetos práticos no FrontEnd.
-- ✨ Curioso, analítico e com visão de negócios aplicada à tecnologia.
 
 ---
 
-### 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvisiqueira/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:siqueiraelvis0@gmail.com)
+## 🗺️ Roadmap DevSecOps 2026–2027
+✅ Linux & Bash (TJDFT - produção)
+✅ Python & Automação 
+✅ Docker Fundação 
+✅ Git & GitLab (TJDFT) 
+🔄 GitHub Actions & CI/CD ← em andamento 
+🔄 OpenShift & Kubernetes ← em andamento 
+🔄 GitOps com Argo CD ← em andamento 
+🔄 AWS & Terraform (IaC) ← em andamento 
+⏳ SAST/DAST/SBOM Pipeline 
+⏳ Observabilidade (Prometheus/Grafana) 
+⏳ Certificação GitHub Actions 
+⏳ Red Hat OpenShift Developer
 
 ---
 
-> *“Transformando conhecimento em solução, código em impacto e desafios em evolução.”*
+## 📌 Projetos em Destaque
 
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [🔐 devsecops-pipeline](#) | Pipeline CI/CD com SAST, SCA e GitOps | Python, Actions, Argo CD |
+| [🐍 python-automation-lab](#) | Automações Python com testes e CI | Python, Pytest, Docker |
+| [📊 data-dashboard](#) | Dashboard público de dados | Pandas, Streamlit, SQL |
+| [🏗️ terraform-aws-lab](#) | Infraestrutura como código na AWS | Terraform, AWS |
+| [⚙️ openshift-labs](#) | Deployments e segurança no OpenShift | OpenShift, K8s, RBAC |
 
+---
 
+## 🏆 Certificações
 
- 
-  
-  
+- ✅ Scrum Fundamentals – SkillFront
+- ✅ Lean Six Sigma White & Yellow Belt – FM2S
+- ✅ Governança de TI – Fundação Bradesco
+- ✅ Hacker Investigador – Técnicas de Invasão
+- 🔄 Formação Python – OneBitCode (em andamento)
+- 🔄 Cientista de Dados – DNC (em andamento)
+- ⏳ GitHub Actions Certification (meta: Jul/26)
+- ⏳ AWS Cloud Practitioner (meta: Out/26)
+
+---
+
+<div align="center">
+
+*"Automação não é substituir pessoas — é liberar pessoas para pensar."*
+
+📧 siqueiraelvis0@gmail.com | 📍 Brasília/DF
+
+</div>
 
   
 
