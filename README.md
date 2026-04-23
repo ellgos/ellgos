@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-Desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia, aprendizado contínuo e por criar interfaces modernas, funcionais e acessíveis.
+Analista DevOps/DevSecOps em evolução, com foco em automação, containers, CI/CD e integração de sistemas. Experiência prática com Python, Linux e ambientes produtivos.
 </p>
 
 <p align="center">
